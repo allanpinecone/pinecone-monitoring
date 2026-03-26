@@ -9,9 +9,12 @@ Prometheus + Grafana monitoring for [Pinecone](https://www.pinecone.io) vector d
 
 ### Dashboard Screenshots
 
-<!-- TODO: Add screenshots before publishing -->
-<!-- ![Pinecone Index Metrics](docs/screenshots/index-metrics.png) -->
-<!-- ![Kubernetes Cluster](docs/screenshots/kubernetes-cluster.png) -->
+![Index stats 1](%20screenshots/i-1.png)
+![Index stats 2](%20screenshots/i-2.png)
+![k8s stats 1](%20screenshots/k8-1.png)
+![k8s stats 2](%20screenshots/k8-2.png)
+![k8s stats 3](%20screenshots/k8-3.png)
+![k8s stats 4](%20screenshots/k8-4.png)
 
 ## Quick Start — SaaS / Serverless
 
